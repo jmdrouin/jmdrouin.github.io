@@ -1,0 +1,9 @@
+title: Jérôme Morin-Drouin
+email: jmdrouin@gmail.com
+description: >-
+  Developer with a generalist mindset. I use code to build apps people enjoy, mischievous logic puzzles, mathematical tools, and playful games for learning.
+baseurl: "" # leave empty
+url: "https://jeromemorindrouin.github.io"
+theme: minima
+
+markdown: kramdown
